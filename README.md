@@ -20,7 +20,7 @@ js发布订阅者模式
 #### 移除事件: 
 
 `eventEmitter.remove(event,fn)` 
-参数：`event` 订阅者事件名,`fn` 事件函数（不传入fn则删除整个event事件）
+参数：`event` 订阅者事件名,`fn` 事件函数（不传入fn则删除整个event订阅者列表）
 
 
 ### 例子：
