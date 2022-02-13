@@ -1,6 +1,6 @@
 # EventEmitter
 js发布订阅者模式
-
+具体详解：https://segmentfault.com/a/1190000041397251
 #### 订阅事件: 
 
 `eventEmitter.on(event,fn)` 
